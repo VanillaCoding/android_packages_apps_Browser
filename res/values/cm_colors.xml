@@ -17,8 +17,8 @@
 <resources>
     <color name="white">#fafafa</color>
     <color name="black">#212121</color>
-    <color name="primary">#e300e5</color>
-    <color name="primary_dark">#e300e5</color>
+    <color name="primary">#950195</color>
+    <color name="primary_dark">#950195</color>
     <color name="accent">#7f0097</color>
     <color name="floating_action_button_touch_tint">#388e3c</color>
     <color name="trasparent">#00000000</color>
@@ -30,7 +30,7 @@
     <color name="snapshot_item_date_text_color">#AAAAAA</color>
     <color name="snapshot_item_title_text_color">#AAAAAA</color>
     <color name="snapshot_item_text_color">@android:color/white</color>
-    <color name="title_bar_autologin_background">#e300e5</color>
+    <color name="title_bar_autologin_background">#950195</color>
     <color name="title_bar_autologin_error_text_color">#dd6826</color>
     <color name="bookmark_sync_wizard_background">@android:color/black</color>
     <color name="bookmark_sync_wizard_confirm_background">@android:color/black</color>
