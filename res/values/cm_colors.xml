@@ -20,7 +20,7 @@
     <color name="primary">#950195</color>
     <color name="primary_dark">#950195</color>
     <color name="accent">#7f0097</color>
-    <color name="floating_action_button_touch_tint">#388e3c</color>
+    <color name="floating_action_button_touch_tint">#950195</color>
     <color name="trasparent">#00000000</color>
 
 
